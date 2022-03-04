@@ -7,6 +7,7 @@ import PostIcon from '@material-ui/icons/Book';
 import UserIcon from '@material-ui/icons/Group';
 import Dashboard from './Dashboard';
 import authProvider from './authProvider';
+//auth-provider 
 
 const dataProvider = jsonServerProvider('https://jsonplaceholder.typicode.com');
 const App = () => (
